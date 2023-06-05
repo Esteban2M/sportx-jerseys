@@ -1,17 +1,17 @@
 # Backlog 
 
-* Sesión de usuario
-    * Inicio de sesión
-    * Registro de usuario
-    * Recuperar contraseña
-* Actualizar información personal de usuario
-* Cátalogo de producto
-    * Mostrar productos
-    * Busqueda de productos
-* Gestión de Inventarios
-    * Seguimiento de Inventarios
-    * Actualizar inventarios
-    * Agregar nuevos productos
-    * Eliminar productos
-* Interfaz de administración
-* Generar comentarios y valoraciones de productos
+* User sessions
+    * To log in a user
+    * To sign up a user
+    * To reset password
+* To update personal data of users
+* Product catalogue
+    * To show products
+    * To search products
+* Inventory management
+    * Inventory track
+    * To update inventories
+    * To add new products
+    * To delete products
+* Management interface
+* Product review and ratings
